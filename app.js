@@ -4,7 +4,7 @@
   var qs = require('querystring');
   http = require('http');
 
-  server = http.createServer().listen(8080);
+  server = http.createServer().listen(process.env.PORT || 5000);
 
   server.on('request', function(request, response) {
     var callback, callbackName, options, querystring,latitude,longitude;
