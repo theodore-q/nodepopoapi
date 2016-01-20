@@ -1,0 +1,48 @@
+2015/10/20 01:17:38 running from /home/nitrous/.heroku/heroku-cli
+2015/10/20 01:17:39 Setting up node-v4.2.1...
+2015/10/20 01:17:41  done
+2015/10/20 01:17:41 Installing core plugins heroku-cli-addons, heroku-apps, heroku-fork, heroku-git, heroku-local, heroku-run, heroku-status...
+2015/10/20 01:18:01  done
+2015/10/20 01:18:01 running from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:41:54 running from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:41:54 Updating Heroku v4 CLI to 4.27.14-a663ce1 (master)... 
+2016/01/20 21:41:54 done
+2016/01/20 21:41:54 Updating plugins... 
+2016/01/20 21:42:02 done
+2016/01/20 21:42:02 rebuilding plugins cache... 
+2016/01/20 21:42:05 Error reading plugin heroku-status. Reinstalling... 
+2016/01/20 21:45:46 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:45:46 heroku-cli: Installing core plugins...
+2016/01/20 21:45:51 heroku-cli: Installing core plugins (retrying)...
+2016/01/20 21:46:02  done
+2016/01/20 21:46:02 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:12 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:12 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:19 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:19 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:37 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:37 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:38 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 21:46:38 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:02 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:02 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:02 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:02 Email: 
+2016/01/20 22:10:18  ▸    Authentication failure.
+2016/01/20 22:10:22 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:22 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:22 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:10:22 Email: 
+2016/01/20 22:10:39  ▸    Authentication failure.
+2016/01/20 22:12:50 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:12:50 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:12:50 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:12:50 Email: 
+2016/01/20 22:13:11  ▸    Authentication failure.
+2016/01/20 22:13:13 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:13:13 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:13:13 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:13:13 Email: 
+2016/01/20 22:18:52 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:18:52 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
+2016/01/20 22:18:52 running heroku-cli/4.27.14-a663ce1 (amd64-linux) go1.5.3 from /home/nitrous/.heroku/heroku-cli
