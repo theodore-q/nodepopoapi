@@ -1,0 +1,11 @@
+{
+  "name": "popostat",
+  "version": "1.0.0",
+  "description": "track anarchy in the uk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "theo",
+  "license": "ISC"
+}
